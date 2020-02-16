@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "655808055493",
+    "firebase_url": "https://nueva-22e11.firebaseio.com",
+    "project_id": "nueva-22e11",
+    "storage_bucket": "nueva-22e11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655808055493:android:29b814009169795bf908ac",
+        "android_client_info": {
+          "package_name": "com.example.Nueva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655808055493-l5lk6v63egatq7iia7qmo3lbh9lbcuhi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Nueva",
+            "certificate_hash": "6ef47aad778e4123d75121a8004e35bf06131432"
+          }
+        },
+        {
+          "client_id": "655808055493-eo282er6918g9lq3h76g4tu5rms99mpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHTxHxUcsTDkEmvTkYHSQBPJLhq0fcyfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655808055493-eo282er6918g9lq3h76g4tu5rms99mpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
